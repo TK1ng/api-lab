@@ -1,0 +1,41 @@
+1. Height: 202
+    endpoint: https://swapi.dev/api/people/?search=darth%20vader
+
+2. Population of Alderaan: 2000000000
+    endpoint: https://swapi.dev/api/planets/?search=Alderaan
+
+3. Manufacturer: Corellian Engineering Corporation
+    endpoint: https://swapi.dev/api/starships/?search=millennium
+
+4. Species: Droid
+    endpoint: https://swapi.dev/api/species/2/
+
+5.  A New Hope
+    The Empire Strikes Back
+    Return of the Jedi
+    The Phantom Menace
+    Attack of the Clones
+    Revenge of the Sith
+        endpoints:
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+            
+6. Millenium Falcon details:
+    endpoint + query: https://swapi.dev/api/starships/?search=millennium
+    "name": "Millennium Falcon",
+      "model": "YT-1300 light freighter",
+      "manufacturer": "Corellian Engineering Corporation",
+      "cost_in_credits": "100000",
+      "length": "34.37",
+      "max_atmosphering_speed": "1050",
+      "crew": "4",
+      "passengers": "6",
+      "cargo_capacity": "100000",
+      "consumables": "2 months",
+      "hyperdrive_rating": "0.5",
+      "MGLT": "75",
+      "starship_class": "Light freighter"
